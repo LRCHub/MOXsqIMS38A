@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Masquerade",
+  "base_artist": "鳳 ここな (CV.石見舞菜香)、新妻八恵 (CV.長縄まりあ)",
+  "createdAt": "2025-12-31T13:29:56.112273Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Masquerade",
+      "artist": "Mt. St. Helens Vietnam Band",
+      "has_synced": false,
+      "path": "select/01_Masquerade_Mt._St._Helens_Vietnam_Band.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Masquerade",
+      "artist": "Beach House",
+      "has_synced": true,
+      "path": "select/02_Masquerade_Beach_House.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Masquerade",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/03_Masquerade_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Masquerade",
+      "artist": "berlin",
+      "has_synced": true,
+      "path": "select/04_Masquerade_berlin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Masquerade",
+      "artist": "Berlin",
+      "has_synced": true,
+      "path": "select/05_Masquerade_Berlin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Masquerade",
+      "artist": "Stacey Q",
+      "has_synced": false,
+      "path": "select/06_Masquerade_Stacey_Q.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Masquerade",
+      "artist": "Clan of Xymox",
+      "has_synced": true,
+      "path": "select/07_Masquerade_Clan_of_Xymox.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lipstick Masquerade (feat. Persha)",
+      "artist": "Carpenter Brut feat. Persha",
+      "has_synced": true,
+      "path": "select/08_Lipstick_Masquerade_(feat._Persha)_Carpenter_Brut_feat._Persha.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lipstick Masquerade",
+      "artist": "Carpenter Brut",
+      "has_synced": true,
+      "path": "select/09_Lipstick_Masquerade_Carpenter_Brut.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Masquerade",
+      "artist": "BASIA",
+      "has_synced": true,
+      "path": "select/10_Masquerade_BASIA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Masquerade",
+      "artist": "Swing Out Sister",
+      "has_synced": false,
+      "path": "select/11_Masquerade_Swing_Out_Sister.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Masquerade/Why So Silent",
+      "artist": "Andrew Lloyd Webber feat. Simon Lee",
+      "has_synced": false,
+      "path": "select/12_Masquerade_Why_So_Silent_Andrew_Lloyd_Webber_feat._Simon_Lee.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "This Masquerade",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/13_This_Masquerade_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "This Masquerade",
+      "artist": "The Carpenters",
+      "has_synced": true,
+      "path": "select/14_This_Masquerade_The_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "This Masquerade (1991 Remix)",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/15_This_Masquerade_(1991_Remix)_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "This Masquerade (1990 remix)",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/16_This_Masquerade_(1990_remix)_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Night Masquerade",
+      "artist": "Dimmu Borgir",
+      "has_synced": true,
+      "path": "select/17_The_Night_Masquerade_Dimmu_Borgir.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Masquerade",
+      "artist": "鳳ここな(石見舞菜香),新妻八恵(長縄まりあ)",
+      "has_synced": false,
+      "path": "select/pl_01_Masquerade_鳳ここな(石見舞菜香),新妻八恵(長縄まりあ).txt"
+    }
+  ]
+}
